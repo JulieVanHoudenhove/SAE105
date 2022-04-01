@@ -1,0 +1,968 @@
+[
+    {
+      "Nom": "L'Homme araignée",
+      "Type": "Film",
+      "Date": 1977,
+      "Réalisation": "E.W. Swackhamer",
+      "Durée": "1h24min"
+    },
+    {
+      "Nom": "L'Incroyable Hulk",
+      "Type": "Téléfilm",
+      "Date": 1977,
+      "Réalisation": "Kenneth Johnson",
+      "Durée": "1h35min"
+    },
+    {
+      "Nom": "L'Incroyable Hulk : Mort dans la famille",
+      "Type": "Téléfilm",
+      "Date": 1977,
+      "Réalisation": "Alan J. Levi",
+      "Durée": "1h35min"
+    },
+    {
+      "Nom": "Doctor Strange",
+      "Type": "Téléfilm",
+      "Date": 1978,
+      "Réalisation": "Philip DeGuere",
+      "Durée": "1h33min"
+    },
+    {
+      "Nom": "Captain America",
+      "Type": "Téléfilm",
+      "Date": 1979,
+      "Réalisation": "Rod Holcomb",
+      "Durée": "2h"
+    },
+    {
+      "Nom": "La Riposte de l'homme-araignée",
+      "Type": "Téléfilm",
+      "Date": 1979,
+      "Réalisation": "Ron Satlof",
+      "Durée": "1h35min"
+    },
+    {
+      "Nom": "Captain America",
+      "Type": "Téléfilm",
+      "Date": 1979,
+      "Réalisation": "Ivan Nagy",
+      "Durée": "1h23min"
+    },
+    {
+      "Nom": "Howard… Une nouvelle race de héros",
+      "Type": "Film",
+      "Date": 1986,
+      "Réalisation": "Willard Huyck",
+      "Durée": "1h50min"
+    },
+    {
+      "Nom": "Le Procès de l'incroyable Hulk",
+      "Type": "Téléfilm",
+      "Date": 1989,
+      "Réalisation": "Bill Bixby",
+      "Durée": "1h40min"
+    },
+    {
+      "Nom": "Le Retour de l'incroyable Hulk",
+      "Type": "Téléfilm",
+      "Date": 1988,
+      "Réalisation": "Nicholas Corea et Bill Bixby",
+      "Durée": "1h40min"
+    },
+    {
+      "Nom": "Punisher",
+      "Type": "Film",
+      "Date": 1989,
+      "Réalisation": "Mark Goldlatt",
+      "Durée": "1h33min"
+    },
+    {
+      "Nom": "La Mort de l'incroyable Hulk",
+      "Type": "Téléfilm",
+      "Date": 1990,
+      "Réalisation": "Bill Bixby",
+      "Durée": "1h35min"
+    },
+    {
+      "Nom": "Captain America",
+      "Type": "Film",
+      "Date": 1990,
+      "Réalisation": "Albert Pyun",
+      "Durée": "1h37min"
+    },
+    {
+      "Nom": "Les 4 Fantastiques",
+      "Type": "Film",
+      "Date": 1994,
+      "Réalisation": "Oley Sassone",
+      "Durée": "1h30min"
+    },
+    {
+      "Nom": "Generation X",
+      "Type": "Téléfilm",
+      "Date": 1996,
+      "Réalisation": "Jack Sholder",
+      "Durée": "1h27min"
+    },
+    {
+      "Nom": "Men in Black",
+      "Type": "Film",
+      "Date": 1997,
+      "Réalisation": "Barry Sonnenfeld",
+      "Durée": "1h38min"
+    },
+    {
+      "Nom": "Blade",
+      "Type": "Film",
+      "Date": 1998,
+      "Réalisation": "Stephen Norrington",
+      "Durée": "2h"
+    },
+    {
+      "Nom": "Nick Fury",
+      "Type": "Téléfilm",
+      "Date": 1998,
+      "Réalisation": "Rod Hardy",
+      "Durée": "2h"
+    },
+    {
+      "Nom": "X-Men",
+      "Type": "Film",
+      "Date": 2000,
+      "Réalisation": "Bryan Singer",
+      "Durée": "1h44"
+    },
+    {
+      "Nom": "Blade II",
+      "Type": "Film",
+      "Date": 2002,
+      "Réalisation": "Guillermo del Toro",
+      "Durée": "1h57min"
+    },
+    {
+      "Nom": "Spider-Man",
+      "Type": "Film",
+      "Date": 2002,
+      "Réalisation": "Sam Raimi",
+      "Durée": "2h01min"
+    },
+    {
+      "Nom": "Men in Black II",
+      "Type": "Film",
+      "Date": 2002,
+      "Réalisation": "Barry Sonnenfeld",
+      "Durée": "1h28min"
+    },
+    {
+      "Nom": "Daredevil",
+      "Type": "Film",
+      "Date": 2003,
+      "Réalisation": "Mark Steven Johnson",
+      "Durée": "1h43min"
+    },
+    {
+      "Nom": "X-Men 2",
+      "Type": "Film",
+      "Date": 2003,
+      "Réalisation": "Bryan Singer",
+      "Durée": "2h14min"
+    },
+    {
+      "Nom": "Hulk",
+      "Type": "Film",
+      "Date": 2003,
+      "Réalisation": "Ang Lee",
+      "Durée": "2h18min"
+    },
+    {
+      "Nom": "The Punisher",
+      "Type": "Film",
+      "Date": 2004,
+      "Réalisation": "Jonathan Hensleigh",
+      "Durée": "2h04min"
+    },
+    {
+      "Nom": "Spider-Man 2",
+      "Type": "Film",
+      "Date": 2004,
+      "Réalisation": "Sam Raimi",
+      "Durée": "2h07min"
+    },
+    {
+      "Nom": "Blade : Trinity",
+      "Type": "Film",
+      "Date": 2004,
+      "Réalisation": "David S. Goyer",
+      "Durée": "1h53min"
+    },
+    {
+      "Nom": "Elektra",
+      "Type": "Film",
+      "Date": 2005,
+      "Réalisation": "Rob Bowman",
+      "Durée": "1h30min"
+    },
+    {
+      "Nom": "Man-Thing",
+      "Type": "Film",
+      "Date": 2005,
+      "Réalisation": "Brett Leonard",
+      "Durée": "1h37min"
+    },
+    {
+      "Nom": "Les 4 Fantastiques",
+      "Type": "Film",
+      "Date": 2005,
+      "Réalisation": "Tim Story",
+      "Durée": "1h46min"
+    },
+    {
+      "Nom": "X-Men : L'Affrontement final",
+      "Type": "Film",
+      "Date": 2006,
+      "Réalisation": "Brett Ratner",
+      "Durée": "1h44min"
+    },
+    {
+      "Nom": "Ghost Rider",
+      "Type": "Film",
+      "Date": 2007,
+      "Réalisation": "Mark Steven Johnson",
+      "Durée": "1h54min"
+    },
+    {
+      "Nom": "Spider-Man 3",
+      "Type": "Film",
+      "Date": 2007,
+      "Réalisation": "Sam Raimi",
+      "Durée": "2h19mni"
+    },
+    {
+      "Nom": "Les 4 Fantastiques et le Surfer d'Argent",
+      "Type": "Film",
+      "Date": 2007,
+      "Réalisation": "Tim Story",
+      "Durée": "1h32min"
+    },
+    {
+      "Nom": "Iron Man",
+      "Type": "Film",
+      "Date": 2008,
+      "Réalisation": "Jon Favreau",
+      "Durée": "2h06min"
+    },
+    {
+      "Nom": "L'incroyable Hulk",
+      "Type": "Film",
+      "Date": 2008,
+      "Réalisation": "Louis Leterrier",
+      "Durée": "1h52min"
+    },
+    {
+      "Nom": "X-Men Origins : Wolverine",
+      "Type": "Film",
+      "Date": 2009,
+      "Réalisation": "Gavin Hood",
+      "Durée": "1h45min"
+    },
+    {
+      "Nom": "Punisher : Zone de guerre",
+      "Type": "Film",
+      "Date": 2008,
+      "Réalisation": "Lexi Alexander",
+      "Durée": "1h47min"
+    },
+    {
+      "Nom": "Kick-Ass",
+      "Type": "Film",
+      "Date": 2010,
+      "Réalisation": "Matthew Vaughn",
+      "Durée": "1h57min"
+    },
+    {
+      "Nom": "Iron Man 2",
+      "Type": "Film",
+      "Date": 2010,
+      "Réalisation": "Jon Favreau",
+      "Durée": "2h04min"
+    },
+    {
+      "Nom": "Thor",
+      "Type": "Film",
+      "Date": 2011,
+      "Réalisation": "Kenneth Branagh",
+      "Durée": "1h55min"
+    },
+    {
+      "Nom": "X-Men : Le Commencement",
+      "Type": "Film",
+      "Date": 2011,
+      "Réalisation": "Matthew Vaughn",
+      "Durée": "2h12min"
+    },
+    {
+      "Nom": "Ghost Rider : L'Esprit de vengeance",
+      "Type": "Film",
+      "Date": 2011,
+      "Réalisation": "Mark Neveldine et Brian Taylor",
+      "Durée": "1h35min"
+    },
+    {
+      "Nom": "Captain America - First Avenger",
+      "Type": "Film",
+      "Date": 2011,
+      "Réalisation": "Joe Johnston",
+      "Durée": "2h04min"
+    },
+    {
+      "Nom": "Avengers",
+      "Type": "Film",
+      "Date": 2012,
+      "Réalisation": "Joss Whedon",
+      "Durée": "2h23min"
+    },
+    {
+      "Nom": "Men in Black 3",
+      "Type": "Film",
+      "Date": 2012,
+      "Réalisation": "Barry Sonnenfeld",
+      "Durée": "1h44min"
+    },
+    {
+      "Nom": "The Amazing Spider-Man",
+      "Type": "Film",
+      "Date": 2012,
+      "Réalisation": "Marc Webb",
+      "Durée": "2h16min"
+    },
+    {
+      "Nom": "Iron Man 3",
+      "Type": "Film",
+      "Date": 2013,
+      "Réalisation": "Shane Black",
+      "Durée": "2h10min"
+    },
+    {
+      "Nom": "Wolverine : Le Combat de l'immortel",
+      "Type": "Film",
+      "Date": 2013,
+      "Réalisation": "James Mangold",
+      "Durée": "2h06min"
+    },
+    {
+      "Nom": "Kick-Ass 2",
+      "Type": "Film",
+      "Date": 2013,
+      "Réalisation": "Jeff Wadlow",
+      "Durée": "1h43min"
+    },
+    {
+      "Nom": "Thor : Le Monde des Ténèbres",
+      "Type": "Film",
+      "Date": 2013,
+      "Réalisation": "Alan Taylor",
+      "Durée": "1h52min"
+    },
+    {
+      "Nom": "Captain America : Le Soldat de l'hiver",
+      "Type": "Film",
+      "Date": 2014,
+      "Réalisation": "Anthony Russo et Joe Russo",
+      "Durée": "2h16min"
+    },
+    {
+      "Nom": "The Amazing Spider-Man : Le Destin d'un héros",
+      "Type": "Film",
+      "Date": 2014,
+      "Réalisation": "Marc Weeb",
+      "Durée": "2h22min"
+    },
+    {
+      "Nom": "X-Men : Days of Future Past",
+      "Type": "Film",
+      "Date": 2014,
+      "Réalisation": "Bryan Singer",
+      "Durée": "2h12min"
+    },
+    {
+      "Nom": "Les Gardiens de la galaxie",
+      "Type": "Film",
+      "Date": 2014,
+      "Réalisation": "James Gunn",
+      "Durée": "2h02min"
+    },
+    {
+      "Nom": "Les Nouveaux Héros",
+      "Type": "Long-métrage d'animation",
+      "Date": 2014,
+      "Réalisation": "Chris Williams et Don Hall",
+      "Durée": "1h42min"
+    },
+    {
+      "Nom": "Kingsman : Services secrets",
+      "Type": "Film",
+      "Date": 2014,
+      "Réalisation": "Matthew Vaughn",
+      "Durée": "2h09min"
+    },
+    {
+      "Nom": "Avengers : L'Ère d'Ultron",
+      "Type": "Film",
+      "Date": 2015,
+      "Réalisation": "Joss Whedon",
+      "Durée": "2h21min"
+    },
+    {
+      "Nom": "Ant-Man",
+      "Type": "Film",
+      "Date": 2015,
+      "Réalisation": "Peyton Reed",
+      "Durée": "1h57min"
+    },
+    {
+      "Nom": "Les 4 Fantastiques",
+      "Type": "Film",
+      "Date": 2015,
+      "Réalisation": "Josh Trank",
+      "Durée": "1h40min"
+    },
+    {
+      "Nom": "Daeadpool",
+      "Type": "Film",
+      "Date": 2016,
+      "Réalisation": "Tim Miller",
+      "Durée": "1h48min"
+    },
+    {
+      "Nom": "Captain America : Civil War",
+      "Type": "Film",
+      "Date": 2016,
+      "Réalisation": "Anthony Russo et Joe Russo",
+      "Durée": "2h27min"
+    },
+    {
+      "Nom": "X-Men : Apocalypse",
+      "Type": "Film",
+      "Date": 2016,
+      "Réalisation": "Bryan Singer",
+      "Durée": "2h24min"
+    },
+    {
+      "Nom": "Doctor Strange",
+      "Type": "Film",
+      "Date": 2016,
+      "Réalisation": "Scott Derrickson",
+      "Durée": "1h55min"
+    },
+    {
+      "Nom": "Logan",
+      "Type": "Film",
+      "Date": 2017,
+      "Réalisation": "James Mangold",
+      "Durée": "2h15min"
+    },
+    {
+      "Nom": "Les Gardiens de la galaxie Vol. 2",
+      "Type": "Film",
+      "Date": 2017,
+      "Réalisation": "James Gunn",
+      "Durée": "2h17min"
+    },
+    {
+      "Nom": "Spider-Man : Homecoming",
+      "Type": "Film",
+      "Date": 2017,
+      "Réalisation": "Jon Watts",
+      "Durée": "2h13min"
+    },
+    {
+      "Nom": "Kingsman : Le Cercle d'or",
+      "Type": "Film",
+      "Date": 2017,
+      "Réalisation": "Matthew Vaughn",
+      "Durée": "2h21min"
+    },
+    {
+      "Nom": "Thor : Ragnarok",
+      "Type": "Film",
+      "Date": 2017,
+      "Réalisation": "Taika Waititi",
+      "Durée": "2h10min"
+    },
+    {
+      "Nom": "Black Panther",
+      "Type": "Film",
+      "Date": 2018,
+      "Réalisation": "Ryan Coogler",
+      "Durée": "2h14min"
+    },
+    {
+      "Nom": "Avengers : Infinity War",
+      "Type": "Film",
+      "Date": 2018,
+      "Réalisation": "Anthony Russo et Joe Russo",
+      "Durée": "2h29min"
+    },
+    {
+      "Nom": "Deadpool 2",
+      "Type": "Film",
+      "Date": 2018,
+      "Réalisation": "David Leitch",
+      "Durée": "1h59min"
+    },
+    {
+      "Nom": "Ant-Man et la Guêpe",
+      "Type": "Film",
+      "Date": 2018,
+      "Réalisation": "Peyton Reed",
+      "Durée": "1h58min"
+    },
+    {
+      "Nom": "Venom",
+      "Type": "Film",
+      "Date": 2018,
+      "Réalisation": "Ruben Fleischer",
+      "Durée": "1h52min"
+    },
+    {
+      "Nom": "Captain Marvel",
+      "Type": "Film",
+      "Date": 2019,
+      "Réalisation": "Anna Boden et Ryan Fleck",
+      "Durée": "2h04min"
+    },
+    {
+      "Nom": "Avengers : Endgame",
+      "Type": "Film",
+      "Date": 2019,
+      "Réalisation": "Anthony Russo et Joe Russo",
+      "Durée": "3h01min"
+    },
+    {
+      "Nom": "X-Men : Dark Phoenix",
+      "Type": "Film",
+      "Date": 2019,
+      "Réalisation": "Simon Kinberg",
+      "Durée": "1h53min"
+    },
+    {
+      "Nom": "Men in Black : International",
+      "Type": "Film",
+      "Date": 2019,
+      "Réalisation": "F. Gary Gray",
+      "Durée": "1h54min"
+    },
+    {
+      "Nom": "Spider-Man : Far From Home",
+      "Type": "Film",
+      "Date": 2019,
+      "Réalisation": "Jon Watts",
+      "Durée": "2h09min"
+    },
+    {
+      "Nom": "The King's Man : Première mission",
+      "Type": "Film",
+      "Date": 2021,
+      "Réalisation": "Matthew Vaughn",
+      "Durée": "2h11min"
+    },
+    {
+      "Nom": "Les Nouveaux Mutants",
+      "Type": "Film",
+      "Date": 2020,
+      "Réalisation": "Josh Boone",
+      "Durée": "1h33min"
+    },
+    {
+      "Nom": "Black Widow",
+      "Type": "Film",
+      "Date": 2021,
+      "Réalisation": "Cate Shortland",
+      "Durée": "2h13min"
+    },
+    {
+      "Nom": "Les Éternels",
+      "Type": "Film",
+      "Date": 2021,
+      "Réalisation": "Chloé Zhao",
+      "Durée": "2h30min"
+    },
+    {
+      "Nom": "Shang-Chi et la Légende des Dix Anneaux",
+      "Type": "Film",
+      "Date": 2021,
+      "Réalisation": "Destin Daniel Cretton",
+      "Durée": "2h12min"
+    },
+    {
+      "Nom": "Deadpool 3",
+      "Type": "Film",
+      "Date": 2023,
+      "Réalisation": ",",
+      "Durée": "-"
+    },
+    {
+      "Nom": "Doctor Strange in the Multiverse of Madness",
+      "Type": "Film",
+      "Date": 2022,
+      "Réalisation": "Sam Raimi",
+      "Durée": "-"
+    },
+    {
+      "Nom": "Thor : Love and Thunder",
+      "Type": "Film",
+      "Date": 2022,
+      "Réalisation": "Taika Waititi",
+      "Durée": "-"
+    },
+    {
+      "Nom": "Black Panther : Wakanda Forever",
+      "Type": "Film",
+      "Date": 2022,
+      "Réalisation": "Ryan Coogler",
+      "Durée": "-"
+    },
+    {
+      "Nom": "Ant-Man and the Wasp : Quantumania",
+      "Type": "Film",
+      "Date": 2023,
+      "Réalisation": "Peyton Reed",
+      "Durée": "-"
+    },
+    {
+      "Nom": "Les Gardiens de la galaxie Vol.3",
+      "Type": "Film",
+      "Date": 2023,
+      "Réalisation": "James Gunn",
+      "Durée": "-"
+    },
+    {
+      "Nom": "Blade",
+      "Type": "Film",
+      "Date": 2023,
+      "Réalisation": "Bassam Tariq",
+      "Durée": "-"
+    },
+    {
+      "Nom": "The Marvels",
+      "Type": "Film",
+      "Date": 2022,
+      "Réalisation": "Nia DaCosta",
+      "Durée": "-"
+    },
+    {
+      "Nom": "Fantastic Four",
+      "Type": "Film",
+      "Date": 2023,
+      "Réalisation": "Jon Watts",
+      "Durée": "-"
+    },
+    {
+      "Nom": "Untitled X-Men sequel",
+      "Type": "Film",
+      "Date": "-",
+      "Réalisation": "-",
+      "Durée": "-"
+    },
+    {
+      "Nom": "Spider-Man : No Way Home",
+      "Type": "Film",
+      "Date": 2021,
+      "Réalisation": "Jon Watts",
+      "Durée": "-"
+    },
+    {
+      "Nom": "Les Gardiens de la galaxie : Spécial Noël",
+      "Type": "Moyen-métrage",
+      "Date": 2022,
+      "Réalisation": "James Gunn",
+      "Durée": "-"
+    },
+    {
+      "Nom": "The Amazing Spider-Man",
+      "Type": "Série",
+      "Date": 1977,
+      "Réalisation": "Alvin Boretz",
+      "Durée": "45min"
+    },
+    {
+      "Nom": "L'Incroyable Hulk",
+      "Type": "Série",
+      "Date": 1978,
+      "Réalisation": "Kenneth Johnson",
+      "Durée": "45min"
+    },
+    {
+      "Nom": "Blade",
+      "Type": "Série",
+      "Date": 2006,
+      "Réalisation": "David S. Goyer",
+      "Durée": "42min"
+    },
+    {
+      "Nom": "Marvel : Les Agents du S.H.I.E.L.D.",
+      "Type": "Série",
+      "Date": 2013,
+      "Réalisation": "Joss Whedon, Jed Whedon et Maurissa Tancharoen",
+      "Durée": "43min"
+    },
+    {
+      "Nom": "Agent Carter",
+      "Type": "Série",
+      "Date": 2015,
+      "Réalisation": "Christopher Markus et Stephen McFeely",
+      "Durée": "43min"
+    },
+    {
+      "Nom": "Marvel's Daredevil",
+      "Type": "Série",
+      "Date": 2015,
+      "Réalisation": "Drew Goddard",
+      "Durée": "55min"
+    },
+    {
+      "Nom": "Marvel's Jessica Jones",
+      "Type": "Série",
+      "Date": 2015,
+      "Réalisation": "Melissa Rosenberg",
+      "Durée": "52min"
+    },
+    {
+      "Nom": "Marvel's Luke Cage",
+      "Type": "Série",
+      "Date": 2016,
+      "Réalisation": "Cheo Hodari Coker",
+      "Durée": "55min"
+    },
+    {
+      "Nom": "Legion",
+      "Type": "Série",
+      "Date": 2017,
+      "Réalisation": "Noah Hawley",
+      "Durée": "45min"
+    },
+    {
+      "Nom": "Marvel's Iron Fist",
+      "Type": "Série",
+      "Date": 2017,
+      "Réalisation": "Scott Buck",
+      "Durée": "52min"
+    },
+    {
+      "Nom": "Marvel's The Defenders",
+      "Type": "Série",
+      "Date": 2017,
+      "Réalisation": "Douglas Petrie et Marco Ramirez",
+      "Durée": "51min"
+    },
+    {
+      "Nom": "The Gifted",
+      "Type": "Série",
+      "Date": 2017,
+      "Réalisation": "Matt Nix",
+      "Durée": "45min"
+    },
+    {
+      "Nom": "Marvel's Inhumans",
+      "Type": "Série",
+      "Date": 2017,
+      "Réalisation": "Scott Buck",
+      "Durée": "42min"
+    },
+    {
+      "Nom": "Marvel's The Punisher",
+      "Type": "Série",
+      "Date": 2017,
+      "Réalisation": "Steve Lightfoot",
+      "Durée": "51min"
+    },
+    {
+      "Nom": "Marvel's Runaways",
+      "Type": "Série",
+      "Date": 2017,
+      "Réalisation": "Josh Schwartz et Stephanie Savage",
+      "Durée": "50min"
+    },
+    {
+      "Nom": "Marvel's Cloak & Dagger",
+      "Type": "Série",
+      "Date": 2018,
+      "Réalisation": "Bill Mantlo et Ed Hannigan",
+      "Durée": "42min"
+    },
+    {
+      "Nom": "WandaVision",
+      "Type": "Série",
+      "Date": 2021,
+      "Réalisation": "Jac Schaeffer",
+      "Durée": "38min"
+    },
+    {
+      "Nom": "Falcon et le Soldat de l'hiver",
+      "Type": "Série",
+      "Date": 2021,
+      "Réalisation": "Malcolm Spellman",
+      "Durée": "50min"
+    },
+    {
+      "Nom": "Loki",
+      "Type": "Série",
+      "Date": 2021,
+      "Réalisation": "Michael Waldron",
+      "Durée": "52min"
+    },
+    {
+      "Nom": "What if…?",
+      "Type": "Dessin animé",
+      "Date": 2021,
+      "Réalisation": "A.C. Bradley",
+      "Durée": "35min"
+    },
+    {
+      "Nom": "Hawkeye",
+      "Type": "Série",
+      "Date": 2021,
+      "Réalisation": "Jonathan Igla",
+      "Durée": "1h"
+    },
+    {
+      "Nom": "Ms.Marvel",
+      "Type": "Série",
+      "Date": 2022,
+      "Réalisation": "Bisha K. Ali",
+      "Durée": "1h"
+    },
+    {
+      "Nom": "She-Hulk",
+      "Type": "Série",
+      "Date": 2022,
+      "Réalisation": "Jessica Gao",
+      "Durée": "30min"
+    },
+    {
+      "Nom": "Moon Knight",
+      "Type": "Série",
+      "Date": 2022,
+      "Réalisation": "Jeremy Slater",
+      "Durée": "-"
+    },
+    {
+      "Nom": "Secret Invasion",
+      "Type": "Série",
+      "Date": 2022,
+      "Réalisation": "Kyle Bradstreet",
+      "Durée": "-"
+    },
+    {
+      "Nom": "IronHeart",
+      "Type": "Série",
+      "Date": 2022,
+      "Réalisation": "Chinaka Hodge",
+      "Durée": "-"
+    },
+    {
+      "Nom": "Armor Wars",
+      "Type": "Série",
+      "Date": 2022,
+      "Réalisation": "Yassir Lester",
+      "Durée": "-"
+    },
+    {
+      "Nom": "I Am Groot",
+      "Type": "Série",
+      "Date": 2022,
+      "Réalisation": "-",
+      "Durée": "-"
+    },
+    {
+      "Nom": "Marvel's Agents of S.H.I.E.L.D. : Vendetta",
+      "Type": "Websérie",
+      "Date": 2016,
+      "Réalisation": "-",
+      "Durée": "6min"
+    },
+    {
+      "Nom": "Helstrom",
+      "Type": "Série",
+      "Date": 2020,
+      "Réalisation": "Paul Zbyszewski",
+      "Durée": "52min"
+    },
+    {
+      "Nom": "Avengers : L'équipe des Super Héros",
+      "Type": "Dessin animé",
+      "Date": 2010,
+      "Réalisation": "Joshua Fine, Jack Kirby et Stan Lee",
+      "Durée": "25min"
+    },
+    {
+      "Nom": "Ultimate Spider-Mpan",
+      "Type": "Série",
+      "Date": 2012,
+      "Réalisation": "Paul Diniet Brian Michael Bendis",
+      "Durée": "25min"
+    },
+    {
+      "Nom": "Hulk et les agents du S.M.A.S.H.",
+      "Type": "Dessin animé",
+      "Date": 2013,
+      "Réalisation": "-",
+      "Durée": "24min"
+    },
+    {
+      "Nom": "Avengers Rassemblement!",
+      "Type": "Dessin animé",
+      "Date": 2013,
+      "Réalisation": "Marvel Animation",
+      "Durée": "25min"
+    },
+    {
+      "Nom": "Marvel's Guardians of the Galaxy",
+      "Type": "Dessin animé",
+      "Date": 2015,
+      "Réalisation": "Dan Abnett et Andy Lanning",
+      "Durée": "25min"
+    },
+    {
+      "Nom": "Iron Man : Armored Adventures",
+      "Type": "Dessin animé",
+      "Date": 2009,
+      "Réalisation": "Philippe Guyenne et Stéphane Juffe",
+      "Durée": "25min"
+    },
+    {
+      "Nom": "Les 4 Fantastiques",
+      "Type": "Dessin animé",
+      "Date": 2006,
+      "Réalisation": "Franck Michel, Cyril Tysz et Thomas Barichella",
+      "Durée": "25min"
+    },
+    {
+      "Nom": "Marvel's Spider-Man",
+      "Type": "Dessin animé",
+      "Date": 2017,
+      "Réalisation": "Sol Choi, Eric Radomski et Philip Pignotti",
+      "Durée": "25min"
+    },
+    {
+      "Nom": "The Spectacular Spider-Man",
+      "Type": "Série",
+      "Date": 2008,
+      "Réalisation": "Steve Ditko et Stan Lee",
+      "Durée": "25min"
+    },
+    {
+      "Nom": "Wolverine et les X-Men",
+      "Type": "Série",
+      "Date": 2008,
+      "Réalisation": "Craig Kyle et Greg Johnson",
+      "Durée": "25min"
+    },
+    {
+      "Nom": "X-Men : Evolution",
+      "Type": "Dessin animé",
+      "Date": 2000,
+      "Réalisation": "Craig Kyle et Greg Johnson",
+      "Durée": "25min"
+    }
+  ]
